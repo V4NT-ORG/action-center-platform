@@ -6,6 +6,6 @@
     "blueimp-file-upload": "^9.30.0",
     "blueimp-load-image": "^2.21.0",
     "blueimp-tmpl": "^3.11.0",
-    "sass-lint": "^1.12.1"
+    "sass-lint": "^1.13.0"
   }
 }
